@@ -2,8 +2,6 @@
 
 Real-time insights into **transactions, customers & risk**, built in Power BI from 50,000 transaction records and 5,000 customer profiles.
 
-![Overview](screenshots/overview.png)
-
 ## 📌 Project Overview
 
 This project analyzes HBL's financial transaction data to uncover patterns in transaction success/failure, customer segment behavior, regional performance, and fraud/risk signals. The goal was to turn raw transaction and customer CSVs into a clean, interactive dashboard that answers real business questions — where is money moving, where is it failing, and where is risk concentrated.
@@ -41,7 +39,6 @@ This project analyzes HBL's financial transaction data to uncover patterns in tr
 
 **2. Transactions** — Row-level transaction detail table with full filtering (Year, Occupation, Merchant Category, Dynamic Metric).
 
-![Transactions](screenshots/transactions.png)
 
 ## 🧹 Power Query — Data Cleaning
 
@@ -114,9 +111,9 @@ Dynamic Metric = {
 ├── HBL_Finance_Analysis.pbix          # Power BI source file
 ├── HBL_Finance_Analysis_Report.docx   # Full analysis & recommendations report
 ├── README.md
-└── screenshots/
-    ├── overview.png
-    └── transactions.png
+── HBL Finance Dashboard.png
+── HBL Finance Transaction Detail.png
+  
 ```
 
 ## 👤 Author
